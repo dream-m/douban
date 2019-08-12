@@ -1,0 +1,14 @@
+<view class='profile'>
+<image class='profile-img' src='{{userimg}}'></image>
+<text class='profile-name'>{{username}}</text>
+</view>
+<view class='info'>
+<view> 
+  <image src='../../images/icon-01.png' class='icon-01'></image>我的信息</view>
+<view class='my-collection'>
+  <image src='../../images/icon-02.png' class='icon-01'></image>我的收藏</view>
+<view class='my-collection'>
+  <image src='../../images/icon-03.png' class='icon-01'></image>我的消息</view>
+<view class='my-collection'>
+  <image src='../../images/icon-04.png' class='icon-01'></image>设置</view>
+</view>

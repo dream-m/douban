@@ -1,0 +1,42 @@
+.profile{ 
+  width: 100%;
+  height: 260rpx;
+  background-color: #00B51D;
+  padding-top: 90rpx;
+}
+.profile-name{
+  text-align: center;
+  display: block;
+  color: #fff;
+  line-height: 100rpx;
+}
+.profile-img{ 
+  width: 120rpx;
+  height: 120rpx;
+  border-radius: 50%;
+  display: block;
+  margin: 0 auto ;
+ }
+ .info{ 
+   margin: 26rpx 0
+   }
+  .info view{
+      height: 100rpx;
+      line-height: 100rpx;
+      border-bottom: 1px solid #efefef;
+      display: flex;
+      justify-content: flex-start;
+      padding-left: 16rpx
+  }
+  .icon-01{
+    width: 40rpx; 
+    height: 40rpx;
+    vertical-align: middle;
+    margin:30rpx 20rpx 0 15rpx;
+    }
+    .icon-02{
+    width: 40rpx; 
+    height: 40rpx;
+    vertical-align: middle;
+    margin:25rpx 14rpx 0 15rpx;
+    }
